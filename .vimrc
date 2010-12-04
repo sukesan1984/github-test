@@ -1,0 +1,1 @@
+/Users/takamikousuke/.vimrc
